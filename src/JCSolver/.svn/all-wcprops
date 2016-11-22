@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/jc-solver/trunk/src/JCSolver
+END
+Line.hs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/jc-solver/trunk/src/JCSolver/Line.hs
+END
+Completable.hs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/jc-solver/trunk/src/JCSolver/Completable.hs
+END
+Solve.hs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/jc-solver/trunk/src/JCSolver/Solve.hs
+END
+BitMask.hs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/jc-solver/trunk/src/JCSolver/BitMask.hs
+END
+Block.hs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/jc-solver/trunk/src/JCSolver/Block.hs
+END
+Pbm.hs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/jc-solver/trunk/src/JCSolver/Pbm.hs
+END
+Cell.hs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/jc-solver/trunk/src/JCSolver/Cell.hs
+END
+Syncable.hs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/jc-solver/trunk/src/JCSolver/Syncable.hs
+END
+Utils.hs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/jc-solver/trunk/src/JCSolver/Utils.hs
+END
+Field.hs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9/jc-solver/trunk/src/JCSolver/Field.hs
+END
+LineMask.hs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7/jc-solver/trunk/src/JCSolver/LineMask.hs
+END
+Opts.hs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/jc-solver/trunk/src/JCSolver/Opts.hs
+END
