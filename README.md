@@ -11,3 +11,10 @@ run
 ```
   ./jc-solver -i example -o example.pmb
 ```
+run with interpretator
+```
+  cd src
+  ghci
+  Prelude> :l test-01
+  Prelude> t1
+```
