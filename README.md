@@ -5,11 +5,14 @@ by Vyacheslav Dubinin <vyacheslav.dubinin@gmail.com>
 
 build
 ```
+  cabal sandbox init
+  cabal install --only-dependencies --enable-tests
+  cabal configure --enable-tests
   cabal build
 ```
-run
+test
 ```
-  ./jc-solver -i example -o example.pmb
+  cabal test
 ```
 run with interpretator
 ```
